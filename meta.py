@@ -15,9 +15,8 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
-plt.style.use('ggplot')
+dd = plt.style.use('ggplot')
 
 ## Reading the dataset
 df = pd.read_csv("C:/Users/Asus/OneDrive/Documents/Learning Saint/Task 1/archive (2)/Dataset-SA.csv")
 
-print(df.size())

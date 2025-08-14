@@ -1,8 +1,11 @@
-First 
+# First 
 git add .
 
-Second
+# Second
 git commit -m "what you did"
 
-Third
+# Third
 git push
+
+# To clear terminal
+Type clear in the terminal
