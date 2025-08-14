@@ -19,3 +19,5 @@ plt.style.use('ggplot')
 
 ## Reading the dataset
 df = pd.read_csv("C:/Users/Asus/OneDrive/Documents/Learning Saint/Task 1/archive (2)/Dataset-SA.csv")
+
+print(df.size())
